@@ -1,6 +1,6 @@
 # Hi there, I'm Bhaskar Kumar 👋  
 
-💻 **3rd Year B.Tech Student | Aspiring Software Engineer | Web Developer | DSA Enthusiast**  
+💻 **3rd Year B.Tech Student || DSA Enthusiast**  
 
 ---
 
