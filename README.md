@@ -30,7 +30,7 @@
 
 ### 🌐 Connect With Me  
 - 📧 Email: **bhaskar77277@gmail.com**  
-- 💼 LinkedIn: (https://www.linkedin.com/in/bhaskar-kumar-3aa819299/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/bhaskar-kumar-3aa819299/
 
 ---
 ⭐️ From [Bhaskar Kumar](https://github.com/YOUR_GITHUB_USERNAME)  
