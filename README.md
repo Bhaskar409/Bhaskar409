@@ -5,11 +5,9 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Currently pursuing **B.Tech (3rd Year)**  
-- 🌱 Learning **DSA deeply** (2.5 hrs daily) and working on **Web Development (Spring Boot + MERN)**  
-- 💡 Interested in **Backend Development, System Design, and Machine Learning**  
-- 🎯 Goal: Secure an **internship by end of 2025** and a **job by mid-2026**  
-- ⚡ Fun fact: I love building projects that connect **frontend ↔ backend ↔ database** with clean architecture  
+- 🎓 Currently pursuing **B.Tech (3rd Year)**    
+- 💡 Interested in **Backend Development, System Design, Blockchain**  
+- ⚡ Fun fact: Roar of GTR impress me lol!  
 
 ---
 
@@ -19,15 +17,8 @@
 - **Frontend Frameworks**: React.js  
 - **Backend**: Java (Servlets, JDBC), Node.js, Express  
 - **Database**: MySQL  
-- **Tools**: Git, GitHub, VS Code, Postman  
+- **Tools**: Git, GitHub, VS Code
 - **Others**: DSA (C++), OOP, Operating Systems basics  
-
----
-
-### 📌 Current Projects  
-- 🏢 **TrackSmart** – Employee Management Dashboard (Admin + Employee modules)  
-- 📊 **DSA Repository** – Collection of solved problems, recursion, linked lists, arrays, etc.  
-- 🤖 **Research Project** – Deep learning for Alzheimer’s disease detection using CNNs & Transfer Learning  
 
 ---
 
@@ -38,9 +29,8 @@
 ---
 
 ### 🌐 Connect With Me  
-- 📧 Email: **your.email@example.com**  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📝 Portfolio: [your-portfolio-link](https://yourportfolio.com)  
+- 📧 Email: **bhaskar77277@gmail.com**  
+- 💼 LinkedIn: (https://www.linkedin.com/in/bhaskar-kumar-3aa819299/)  
 
 ---
 ⭐️ From [Bhaskar Kumar](https://github.com/YOUR_GITHUB_USERNAME)  
