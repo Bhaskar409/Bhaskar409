@@ -6,8 +6,8 @@
 
 ### 🚀 About Me  
 - 🎓 Currently pursuing **B.Tech (3rd Year)**    
-- 💡 Interested in **Backend Development, System Design, Blockchain**  
-- ⚡ Fun fact: Roar of GTR impress me lol!  
+- 💡 Interested in ** DSA, Backend Development, System Design, Blockchain**  
+- ⚡ Fun fact: No number before 1,000 contains the letter **A**!  
 
 ---
 
@@ -27,5 +27,5 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/bhaskar-kumar-3aa819299/
 
 ---
-⭐️ Perception towards happiness and sorrow should change will give a good Life 💕
+⭐️ There always exist better version's 💕
 
