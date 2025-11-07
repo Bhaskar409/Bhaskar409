@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 - **Languages**: C++, Java, JavaScript, SQL  
 - **Web Dev**: HTML, CSS, JavaScript, Node.js, Express, Spring Boot  
 - **Frontend Frameworks**: React.js  
@@ -22,16 +22,10 @@
 
 ---
 
-### 📈 GitHub Stats  
-![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhaskar409&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaskar409&layout=compact&theme=tokyonight)  
-
----
-
 ### 🌐 Connect With Me  
 - 📧 Email: **bhaskar77277@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhaskar-kumar-3aa819299/
 
 ---
-⭐️ From [Bhaskar Kumar](https://github.com/YOUR_GITHUB_USERNAME)  
+⭐️ Perception towards happiness and sorrow should change will give a good Life 💕
 
