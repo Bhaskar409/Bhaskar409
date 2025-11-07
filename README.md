@@ -6,7 +6,7 @@
 
 ### 🚀 About Me  
 - 🎓 Currently pursuing **B.Tech (3rd Year)**    
-- 💡 Interested in ** DSA, Backend Development, System Design, Blockchain**  
+- 💡 Interested in **DSA, Backend Development, System Design, Blockchain**  
 - ⚡ Fun fact: No number before 1,000 contains the letter **A**!  
 
 ---
