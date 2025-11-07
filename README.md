@@ -27,5 +27,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/bhaskar-kumar-3aa819299/
 
 ---
-⭐️ There always exist better version's 💕
+<h3 align="center">⭐️ There always exist better version's 💕</h3>
+
 
