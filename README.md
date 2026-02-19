@@ -1,6 +1,6 @@
 # Hi there, I'm Bhaskar Kumar 👋  
 
-💻 **3rd Year B.Tech Student || DSA Enthusiast**  
+💻 **3rd Year B.Tech Student || Making thing's via coding**  
 
 ---
 
@@ -13,12 +13,12 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: C++, Java, JavaScript, SQL  
-- **Web Dev**: HTML, CSS, JavaScript, Node.js, Express, Spring Boot  
+- **Web Dev**: HTML, CSS, JavaScript, React, Spring Boot  
 - **Frontend Frameworks**: React.js  
-- **Backend**: Java (Servlets, JDBC), Node.js, Express  
-- **Database**: MySQL  
+- **Backend**: Java (Servlets, JDBC), Spring Boot  
+- **Database**: MySQL,Postgres 
 - **Tools**: Git, GitHub, VS Code
-- **Others**: DSA (C++), OOP, Operating Systems basics  
+- **Others**: Data Structure and Algorithms, OOP's, Operating Systems, Computer Networks, System Design, DataBase 
 
 ---
 
