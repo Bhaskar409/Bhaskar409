@@ -24,7 +24,7 @@
 
 ### 🌐 Connect With Me  
 - 📧 Email: **bhaskar77277@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/bhaskar-kumar-3aa819299/
+- 💼 LinkedIn: www.linkedin.com/in/bhaskar-kumar77277
 
 ---
 <h3 align="center">⭐️ There always exist better version's 💕</h3>
